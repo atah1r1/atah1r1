@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![](https://github.com/atah1r1/atah1r1/blob/master/satisfying.gif)](#)
+[![](https://github.com/atah1r1/atah1r1/blob/main/satisfying.gif)](#)
 
 **atah1r1/atah1r1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
