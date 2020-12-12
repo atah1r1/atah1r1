@@ -1,8 +1,6 @@
 ### Hi there 👋
 
-[![](https://github.com/atah1r1/atah1r1/blob/main/satisfying.gif)](#)
-
-Here are some ideas to get you started:
+Here are some ideas to get you started:[![](https://github.com/atah1r1/atah1r1/blob/main/satisfying.gif)](#)
 
 - 🔭 I’m currently working on Plobal apps
 - 🌱 I’m currently learning React Js
