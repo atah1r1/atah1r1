@@ -5,3 +5,8 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning React Js
 - 👯 I’m looking to collaborate on Big projects
 - 💬 Ask me about anything
+
+
+-------> GITHUB STATS <--------
+
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=atah1r1&show_icons=true&theme=gotham" alt="atah1r1" />
