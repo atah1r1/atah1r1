@@ -6,5 +6,3 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning React Js
 - 👯 I’m looking to collaborate on Big projects
 - 💬 Ask me about anything
-- 😄 Pronounce: mech khbech khebcha 5 lmarrat
-- ⚡ Fun fact: $(Pronounce)
