@@ -6,7 +6,8 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on Big projects
 - 💬 Ask me about anything
 
-
--------> GITHUB STATS <--------
-
+<h1 align="center"> -------> GITHUB STATS <-------- </h1>
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=atah1r1&show_icons=true&theme=gotham" alt="atah1r1" />
+  
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=atah1r1&layout=compact)]
+
