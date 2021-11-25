@@ -8,6 +8,3 @@ Here are some ideas to get you started:
 
 <h3 align="center"> -------> GITHUB STATS <-------- </h3>
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=atah1r1&show_icons=true&theme=gotham" alt="atah1r1" />
-
-<h3 align="center"> -------> TOP LANGUAGES <-------- </h3>
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=atah1r1&layout=compact" alt="atah1r1" />
